@@ -5,5 +5,5 @@ all:
     webservers:
       hosts:
         web1:
-          ansible_host: 158.160.155.32
+          ansible_host: 158.160.175.16
           ansible_user: admin
